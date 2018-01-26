@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>nadirefe.github.io/2017/01/vue.js/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>nadirefe.github.io/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>nadirefe.github.io/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>nadirefe.github.io/tags/javascript/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>nadirefe.github.io/post/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>nadirefe.github.io/tags/single-page/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>nadirefe.github.io/tags/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>nadirefe.github.io/tags/vue.js/</loc>
+    <lastmod>2017-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

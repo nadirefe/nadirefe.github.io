@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Efe Nadir</title>
+    <link>nadirefe.github.io/tags/</link>
+    <description>Recent content in Tags on Efe Nadir</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="nadirefe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Javascript</title>
+      <link>nadirefe.github.io/tags/javascript/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>nadirefe.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Page</title>
+      <link>nadirefe.github.io/tags/single-page/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>nadirefe.github.io/tags/single-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue.js</title>
+      <link>nadirefe.github.io/tags/vue.js/</link>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>nadirefe.github.io/tags/vue.js/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
